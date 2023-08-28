@@ -14,4 +14,5 @@ for _ in range(int(input())):
     elif disposable < cloth:
         print("disposable")
     else:
+        print("cloth")
         
