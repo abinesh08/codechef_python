@@ -1,0 +1,10 @@
+value=int(input('enter the value'))
+print('the values are:')
+print(bin(value),'the binary values')
+print(oct(value),'octal values')
+print(hex(value),'hexa value')
+
+num=int(input("enter the num"))
+print(bin(num),"the binary value")
+print(oct(num))
+print(hex(num))
